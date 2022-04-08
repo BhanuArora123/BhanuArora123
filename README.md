@@ -6,7 +6,7 @@
 - 💬 Ask me about MERN Stack, Programming with C++
 - 📫 How to reach me: [LinkedIn - @BhanuArora](https://www.linkedin.com/in/bhanu-arora-1354251bb/)
 - 😄 Pronouns: He/His
-<p align="center">
+<p>
     <b>Technical Skills</b>
 </p>
 <p align="center">
