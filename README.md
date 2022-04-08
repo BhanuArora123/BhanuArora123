@@ -7,5 +7,7 @@
 - 📫 How to reach me: [LinkedIn - @BhanuArora](https://www.linkedin.com/in/bhanu-arora-1354251bb/)
 - 😄 Pronouns: He/His
 
-<img src="https://github-readme-stats.vercel.app/api?username=BhanuArora123&show_icons=true&theme=dark&line_height=27">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=spandan114&theme=tokyonight">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhanuArora123&show_icons=true&theme=dark&line_height=27">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spandan114&theme=tokyonight">
+</p>
