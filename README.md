@@ -8,6 +8,6 @@
 - 😄 Pronouns: He/His
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhanuArora123&show_icons=true&theme=dark&line_height=27">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spandan114&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhanuArora123&show_icons=true&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhanuArora123&theme=dark">
 </p>
