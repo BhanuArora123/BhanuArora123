@@ -22,8 +22,7 @@
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;&nbsp;
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">&nbsp;&nbsp;&nbsp;
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-<img height="30" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ftitrias.com%2Ffiles%2F2022%2F04%2Ftypescript.png&imgrefurl=https%3A%2F%2Ftitrias.com%2F16-reasons-why-typescript-is-becoming-our-backend-go-to-language-but-there-is-a-lot-to-consider%2F&tbnid=XJ-3cY15EKB3NM&vet=12ahUKEwiulcGqzpb5AhWgg2MGHflyArQQMygHegUIARDsAQ..i&docid=2US0oz5PXIQOLM&w=600&h=600&q=typescript&ved=2ahUKEwiulcGqzpb5AhWgg2MGHflyArQQMygHegUIARDsAQ">
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
   </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BhanuArora123&show_icons=true&theme=dark">
