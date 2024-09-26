@@ -1,7 +1,7 @@
 ### Hi there, I'm Bhanu Arora 👋
 
 - 🔭 I’m currently working on MERN Stack.
-- 🌱 I’m currently learning MYSQL, PostgreSQL , React Native
+- 🌱 I’m currently learning System Design.
 - 👯 I’m looking to collaborate on hackathon, some interesting FullStack Web Development Projects.
 - 💬 Ask me about MERN Stack, Programming with C++
 - 📫 How to reach me: [LinkedIn - @BhanuArora](https://www.linkedin.com/in/bhanu-arora-1354251bb/)
